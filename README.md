@@ -670,28 +670,3 @@ gtkwave Single_Cycle.vcd
 
 ---
 
-# Tools Used
-
-* Verilog HDL
-* Icarus Verilog
-* GTKWave
-
----
-
-## Areas of Interest
-
-* Computer Architecture
-* Digital System Design
-* VLSI Design
-* Processor Microarchitecture
-* Hardware Description Languages (Verilog/SystemVerilog)
-
----
-
-## Tools & Technologies
-
-* Verilog HDL
-* Icarus Verilog
-* GTKWave
-* Git & GitHub
-
