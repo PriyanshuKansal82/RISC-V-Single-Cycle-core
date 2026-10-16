@@ -678,11 +678,6 @@ gtkwave Single_Cycle.vcd
 
 ---
 
-# Author
-
-Desu Rishi
-Undergraduate Student – Electronics and Communication Engineering
-Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur
 ## Areas of Interest
 
 * Computer Architecture
